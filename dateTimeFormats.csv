@@ -1,0 +1,8 @@
+dateTimePattern,dateTimeExample
+yyyy-MM-dd'T'HH:mm:ss.SSS'Z',2017-07-01T14:59:55.711Z
+yyyy-MM-dd'T'HH:mm:ssXXX,1999-03-22T05:06:07+01:00
+yyyy-MM-dd HH:mm:ss.SSS,2018-02-27 15:35:20.311
+yyyy/MM/dd HH:mm:ss.SSS,2018/02/27 15:35:20.311
+yyyy-MM-dd HH:mm:ss,2018-02-27 15:35:20
+yyyy-MM-dd HH:mm,2018-02-27 15:35
+yyyy/MM/dd HH:mm,2018/02/27 15:35
