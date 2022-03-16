@@ -1,0 +1,2 @@
+_int, _decimal,	_date,	_time,	_datetime,	_string,	_boolean
+"4", 4.5, 10/09/2020, 10:45:01 AM, "12/11/2018 09:15:32", "Boston", True
