@@ -1,0 +1,3 @@
+﻿_int,_decimal,_date,_time,_date_time,_string,_boolean
+,,,,,,
+1,0.1,2022-07-04,12:30:55.12345-05:00,2017-07-01T14:59:55.711Z,Boston,True
